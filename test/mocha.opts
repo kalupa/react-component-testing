@@ -1,0 +1,4 @@
+--reporter progress
+--ui bdd
+--recursive
+--compilers js:babel-register
